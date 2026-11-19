@@ -1,8 +1,6 @@
-# VAKYR football probability calibration
+# VAKYR football probability calibration (pre-match, 38,241 matches)
 
 Also on Hugging Face: https://huggingface.co/datasets/vakyr/vakyr-football-calibration
-
-##  (pre-match, 38,241 matches)
 
 How well do published football probabilities match reality? This dataset is the **reliability table** of
 [VAKYR](https://vakyr.com), a free football site with pre-match probabilities for 600+ leagues and cups and a

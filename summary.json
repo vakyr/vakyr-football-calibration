@@ -1,0 +1,60 @@
+{
+ "period": "2026-09-01..2026-11-18",
+ "matches": 38241,
+ "months": [
+  "2026-09",
+  "2026-10",
+  "2026-11"
+ ],
+ "markets": {
+  "1X2_home": {
+   "n": 38241,
+   "brier": 0.2339,
+   "log_loss": 0.6596,
+   "base_rate": 0.4416,
+   "brier_climatology": 0.2466
+  },
+  "1X2_draw": {
+   "n": 38241,
+   "brier": 0.1779,
+   "log_loss": 0.5402,
+   "base_rate": 0.2337,
+   "brier_climatology": 0.1791
+  },
+  "1X2_away": {
+   "n": 38241,
+   "brier": 0.2073,
+   "log_loss": 0.6023,
+   "base_rate": 0.3247,
+   "brier_climatology": 0.2193
+  },
+  "over_1_5": {
+   "n": 38162,
+   "brier": 0.1695,
+   "log_loss": 0.5209,
+   "base_rate": 0.7807,
+   "brier_climatology": 0.1712
+  },
+  "over_2_5": {
+   "n": 38241,
+   "brier": 0.2436,
+   "log_loss": 0.6802,
+   "base_rate": 0.5658,
+   "brier_climatology": 0.2457
+  },
+  "over_3_5": {
+   "n": 38162,
+   "brier": 0.2278,
+   "log_loss": 0.6486,
+   "base_rate": 0.3555,
+   "brier_climatology": 0.2291
+  },
+  "btts_yes": {
+   "n": 38241,
+   "brier": 0.2464,
+   "log_loss": 0.686,
+   "base_rate": 0.5414,
+   "brier_climatology": 0.2483
+  }
+ }
+}
